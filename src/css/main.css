@@ -1,4 +1,8 @@
 /* Your CSS here. */
+.card {
+    align-items: center;
+}
+
 .body {
     font-family: Arial, sans-serif;
     margin: 20px;
