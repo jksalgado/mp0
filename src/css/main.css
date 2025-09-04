@@ -1,1 +1,21 @@
 /* Your CSS here. */
+.body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.h1 {
+    font-size: larger;
+}
+.headshot {
+    width: 150px;
+    height: 150px;
+}
+
+.linkedin {
+    display: block;
+    margin-top: 10px;
+    font-size: 18px;
+    color: #0077b5;
+    text-decoration: none;
+}
